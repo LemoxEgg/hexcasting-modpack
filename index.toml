@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "de259590ef75e88d285feab2d695a2cfe25403d1f14f5ac7679766e9c8a98dac"
+metafile = true
+
+[[files]]
+file = "mods/ephemera.pw.toml"
+hash = "442d01ebee947c4383de13fc207425cc73dabbb0dadc6f0e72d232b6ebb7032b"
 metafile = true
 
 [[files]]
@@ -36,6 +46,26 @@ hash = "7d8bbebc701fc5ae2bf834b98ffd5709c773c27a06400c114a91ce5c4313ed69"
 metafile = true
 
 [[files]]
+file = "mods/hexal.pw.toml"
+hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
+metafile = true
+
+[[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+metafile = true
+
+[[files]]
+file = "mods/hexdim.pw.toml"
+hash = "43205cc02ed373e94db92a369da5c58a9f3380261cfe73f58bc0b7b04b7ad9f7"
+metafile = true
+
+[[files]]
+file = "mods/hexical.pw.toml"
+hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
 metafile = true
@@ -53,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/modflared.pw.toml"
 hash = "b8701de89dc6dd2a33db29ebbc0f821c4288fa9cac273ed6c6dbc1d5e29c97ec"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "275952e00b13644a444c760d57291b09e5ab2d43eeda195ff4a977d0bf7995fc"
 metafile = true
 
 [[files]]
